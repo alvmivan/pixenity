@@ -1,7 +1,41 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="0cd334ec-4ea1-403b-abe1-59f9b4b93123" name="Default Changelist" comment="" />
+    <list default="true" id="0cd334ec-4ea1-403b-abe1-59f9b4b93123" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/Assets/Utilities/DataButton.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Utilities/DataButton.cs.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.Pixenity-Test/.idea/contentModel.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.Pixenity-Test/.idea/contentModel.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.Pixenity-Test/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.Pixenity-Test/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Pixenity/Editor.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Pixenity/Editor/EditorDrawerService.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Pixenity/Editor/EditorDrawerService.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Pixenity/Editor/MainEditor.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Pixenity/Editor/MainEditor.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Pixenity/Editor/MainView.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Pixenity/Editor/MainView.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Pixenity/Presentation.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Pixenity/Presentation/MainScreenPresenter.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Pixenity/Presentation/MainScreenPresenter.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scenes/SampleScene.unity" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scenes/SampleScene.unity" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -9,6 +43,11 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/63DD8BF9-8CFA-4BA9-85AF-735EF1A56BA9/75/d2542408/FileSystemInfo.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/63DD8BF9-8CFA-4BA9-85AF-735EF1A56BA9/a1/28d5a221/Directory.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Utilities/ExplorerView.cs" root0="FORCE_HIGHLIGHTING" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
@@ -20,6 +59,10 @@
         <option value="$PROJECT_DIR$/Assets/Pixenity/Editor/MainEditor.cs" />
         <option value="$PROJECT_DIR$/Assets/Pixenity/Presentation/MainScreenPresenter.cs" />
         <option value="$PROJECT_DIR$/Assets/Pixenity/Editor/EditorDrawerService.cs" />
+        <option value="$PROJECT_DIR$/Assets/Utilities/DataComponent.cs" />
+        <option value="$PROJECT_DIR$/Assets/Utilities/DataButton.cs" />
+        <option value="$PROJECT_DIR$/Assets/Utilities/ExplorerView.cs" />
+        <option value="$PROJECT_DIR$/Assets/Utilities/LoadSaveFiles.cs" />
       </list>
     </option>
   </component>
@@ -65,6 +108,7 @@
       <option name="presentableId" value="Default" />
       <updated>1606223660037</updated>
       <workItem from="1606223660746" duration="4344000" />
+      <workItem from="1606511095974" duration="4859000" />
     </task>
     <servers />
   </component>
@@ -73,14 +117,25 @@
   </component>
   <component name="UnityProjectConfiguration" hasMinimizedUI="true" />
   <component name="UnityUnitTestConfiguration" currentTestLauncher="EditMode" />
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
   <component name="VcsManagerConfiguration">
     <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="true" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="511" y="49" key="RiderGenerateDialog" timestamp="1606235936058">
+    <state x="511" y="49" key="RiderGenerateDialog" timestamp="1606513935583">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="511" y="49" key="RiderGenerateDialog/0.0.1366.728@0.0.1366.728" timestamp="1606235936058" />
+    <state x="511" y="49" key="RiderGenerateDialog/0.0.1366.728@0.0.1366.728" timestamp="1606513935583" />
     <state x="184" y="9" key="SettingsEditor" timestamp="1606235705052">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
